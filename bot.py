@@ -209,7 +209,7 @@ def generate_email_list(base_email, count):
 # Fungsi utama untuk referral
 def main():
     # Menu pilihan
-    print("Pilih opsi:")
+    print("Bot by Nazara. Pilih opsi:")
     print("1. Generate email")
     print("2. Lanjutkan referral")
     choice = int(input("Masukkan pilihan (1/2): "))
