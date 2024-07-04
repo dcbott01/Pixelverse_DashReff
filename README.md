@@ -4,13 +4,11 @@ Pixelverse Dashboard Refferal Bot
 <h3 align="center">Panduan Penggunaan Bot Ini</h3>
 Kunjungi https://dashboard.pixelverse.xyz/ untuk mendaftar.
 
-Kloning repositori dengan perintah: git clone https://github.com/monteksz/pixelverse
-
-Masuk ke direktori proyek: cd pixelverse
-
 Instal semua persyaratan: pip install -r requirements.txt
 
-Jalankan bot: python reffupdate.py
+Masukkan kode refferal di reff.txt
+
+Jalankan bot: python bot.py
 
 <h3 align="center">Panduan Penggunaan Bot Ini (PEMBARUAN)</h3>
 1. Buat email baru di Outlook, bisa menggunakan domain @outlook.com atau @hotmail.com (Dianjurkan untuk tidak menggunakan email pribadi) (Daftar dalam mode incognito untuk menghindari permintaan OTP).
